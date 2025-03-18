@@ -6,3 +6,5 @@ Potential new student projects explored for PHYS305 (Computational Modelling) at
 - Simulating a Neutrino Beamline.
 - Solving the Time-Dependent and Time-Independent Schrodinger Equation in 1D.
 - Statistical Analysis of Small Signals.
+
+C. Andreopoulos <c.andreopoulos \at cern.ch>
